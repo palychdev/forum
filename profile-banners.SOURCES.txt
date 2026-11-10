@@ -1,0 +1,7 @@
+Profile banner images supplied by the site owner on 2026-11-10.
+No blanket license or ownership transfer is asserted.
+Original bytes retained.
+
+profile-village.jpg  SHA-256 3e8ca61f38acf01410d20115e63873b5d0ab766030dc8955a7b22bf4190e3c32
+profile-raid.jpg  SHA-256 ec67d198815cc795fe2d78b3d2ab0311a471a0ff8eda6c52e01860a24c05008b
+profile-adventure.png  SHA-256 94149750389ea9b9039c66fd5539c69ba72669a141c7d76332deff8d3bce81a6
