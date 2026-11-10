@@ -1,0 +1,1 @@
+Steve / Alex: https://assets.mojang.com/SkinTemplates/steve.png and alex.png. Minecraft assets © Mojang. Local face crops use the original texture. Not affiliated with Mojang.
