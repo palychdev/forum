@@ -1,7 +1,7 @@
 Third-party notices for frontend components and their runtime dependencies.
 User uploads retain their own licenses.
 
-react 19.2.6
+react 19.3.1
 License: MIT
 https://react.dev/
 
@@ -30,7 +30,7 @@ SOFTWARE.
 
 ========================================================================
 
-react-dom 19.2.6
+react-dom 19.3.1
 License: MIT
 https://react.dev/
 
@@ -59,7 +59,7 @@ SOFTWARE.
 
 ========================================================================
 
-scheduler 0.27.0
+scheduler 0.28.0
 License: MIT
 https://react.dev/
 
@@ -256,13 +256,13 @@ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webxr
 
 ========================================================================
 
-fflate 0.7.4
+fflate 0.8.3
 License: MIT
 https://101arrowz.github.io/fflate
 
 MIT License
 
-Copyright (c) 2020 Arjun Barrett
+Copyright (c) 2026 Arjun Barrett
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
