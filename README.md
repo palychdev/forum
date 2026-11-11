@@ -1,7 +1,5 @@
-# Forum
+# net.fork
 
-Published frontend for the community website. Accounts, data and uploads are served by Supabase.
+Сайт переехал на https://netfork.lol/. Этот адрес перенаправляет на основной сайт.
 
-Website: https://palychdev.github.io/forum/
-
-This repository contains the built public site only. No user data, passwords or server credentials are included.
+Здесь хранится прежняя публичная сборка интерфейса. База и серверный код в этот репозиторий не публикуются.
